@@ -50,14 +50,14 @@ You can contribute to this project by accessing my GitHub page.
 
 1. Empty app visual
 
-![Empty app visual](/Dev/screenshots/Empty%20app%20visual.png "Empty app visual")
+![Empty app visual](screenshots/Empty%20app%20visual.png "Empty app visual")
 
 2. App with data
 
-![App with data](/Dev/screenshots/App%20with%20data.png "App with data")
+![App with data](screenshots/App%20with%20data.png "App with data")
 
 3. App with data locally stored
 
-![App with data locally stored](/Dev/screenshots/App%20with%20data%20locally%20stored.png "App with data locally stored")
+![App with data locally stored](screenshots/App%20with%20data%20locally%20stored.png "App with data locally stored")
 
 
