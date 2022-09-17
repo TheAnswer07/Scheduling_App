@@ -44,7 +44,7 @@ You can contribute to this project by accessing my GitHub page.
 [GitHub](https://github.com/TheAnswer07)
 
 ### Links:
-[GitHub App Link](https://theanswer07.github.io/Work_Day_Scheduler/)
+[GitHub App Link](https://theanswer07.github.io/Scheduling_App/)
 
 ### Screenshots:
 
